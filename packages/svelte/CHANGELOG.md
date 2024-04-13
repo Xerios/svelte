@@ -1,5 +1,11 @@
 # svelte
 
+## 5.0.0-next.103
+
+### Patch Changes
+
+- fix: revert ownership widening change ([#11161](https://github.com/sveltejs/svelte/pull/11161))
+
 ## 5.0.0-next.102
 
 ### Patch Changes
